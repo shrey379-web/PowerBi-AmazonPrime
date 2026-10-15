@@ -2,6 +2,12 @@
 
 An interactive Power BI dashboard designed to explore Amazon Prime Video's content catalogue, including titles, ratings, genres, directors, content types, geographical distribution, and release-year trends.
 
+## 📊 Dashboard Preview
+
+![Amazon Prime Video Dashboard](Screenshot%202025-07-09%20220311.png)
+
+*Dashboard preview featuring key performance indicators, content ratings, genre distribution, country-wise content mapping, movies vs. TV shows comparison, and release-year trends.*
+
 
 ## 📌 Project Overview
 
